@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-05T11:35:58 IST" name="Suite" finished-at="2023-07-05T11:36:02 IST" duration-ms="3474">
+    <groups>
+    </groups>
+    <test started-at="2023-07-05T11:35:58 IST" name="Test" finished-at="2023-07-05T11:36:02 IST" duration-ms="3474">
+      <class name="test.searchtest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.searchtest@437da279]" started-at="2023-07-05T11:35:58 IST" name="setUp" finished-at="2023-07-05T11:36:01 IST" duration-ms="3121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="seachtest(java.lang.String)[pri:0, instance:test.searchtest@437da279]" started-at="2023-07-05T11:36:01 IST" name="seachtest" finished-at="2023-07-05T11:36:02 IST" duration-ms="315" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vellarikund]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seachtest -->
+      </class> <!-- test.searchtest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
